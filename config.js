@@ -1,10 +1,10 @@
 const VIP_CONFIG = {
-  businessName: "SHYAM REALESTATE",
-  pageTitle: "Shyam Realestate",
-  profileImage: "profile.jpg",
+  businessName: "Betway365",
+  pageTitle: "Betway365",
+  profileImage: "profile.jpeg",
   bonusText: "GET 10% BONUS",
-  buttonText: "WHATSAPP",
+  buttonText: "WHATSAPP Now",
   whatsappLink: "https://linkgen.pro/wa-link",
-  loaderText: "SHYAM REALESTATE",
-  loaderTime: 900
+  loaderText: "Join Betway365",
+  loaderTime: 500
 };
