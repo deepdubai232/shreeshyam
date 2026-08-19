@@ -6,13 +6,13 @@ const VIP_CONFIG = {
 
     profileImage: "profile.jpeg",
 
-    bonusText: "GET 10% BONUS",
+    bonusText: "GET 10% DISCOUNT",
 
     buttonText: "WHATSAPP Now",
 
     whatsappLink: "https://wa.link/babuji",
 
-    loaderText: "Join Betway365",
+    loaderText: "BABA JI",
 
     loaderTime: 500
 
