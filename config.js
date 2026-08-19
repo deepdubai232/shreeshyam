@@ -10,7 +10,7 @@ const VIP_CONFIG = {
 
     buttonText: "WHATSAPP Now",
 
-    whatsappLink: "https://wa.me/447848431995?text=Hi%20I%20want%20lD",
+    whatsappLink: "https://wa.link/babuji",
 
     loaderText: "Join Betway365",
 
